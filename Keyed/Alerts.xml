@@ -46,17 +46,17 @@
 	
 	//TODO
 	
-	<HunterLacksWeapon>Hunter lacks weapon</HunterLacksWeapon>
-	<HunterLacksWeaponDesc>A colonist is assigned as a hunter but has no weapon. They will not hunt until they are carrying a weapon.\n\nTo reduce injury, we recommend giving them a ranged weapon.</HunterLacksWeaponDesc>
+	<HunterLacksWeapon>Helwyr heb arf</HunterLacksWeapon>
+	<HunterLacksWeaponDesc>Mae gwladychwyr wedi ei neilltio fel helwyr ond mae heb arf. Byddwn nhw ddim yn hela nes bod nhw'n dal arf.\n\nTo reduce injury, we recommend giving them a ranged weapon.</HunterLacksWeaponDesc>
 	
-	<Starvation>Starvation</Starvation>
-	<StarvationDesc>These colonists are starving:\n\n{0}\nGet them some food.</StarvationDesc>
+	<Starvation>Llwglyd Iawn</Starvation>
+	<StarvationDesc>Mae'r wladychwyr yn llwglyd iawn:\n\n{0}\nGet them some food.</StarvationDesc>
 	
-	<StarvationAnimals>Animal starvation</StarvationAnimals>
-	<StarvationAnimalsDesc>These colony animals are starving:\n\n{0}\nGet them some food.</StarvationAnimalsDesc>
+	<StarvationAnimals>Anifeiliaid llwglyd iawn</StarvationAnimals>
+	<StarvationAnimalsDesc>Mae anifeiliaid y wladychwyr yn llwglyd iawn:\n\n{0}\nCael bwyd iddo nhw.</StarvationAnimalsDesc>
 	
-	<Exhaustion>Exhaustion</Exhaustion>
-	<ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+	<Exhaustion>Blinder</Exhaustion>
+	<ExhaustionDesc>Mae'r wladychwyr wedi ei blinder:\n\n{0}\nCael nhw I gorffwys. Byddwn nhw anged gwelu sydd ar gael am defnydd y wladychwyr. Hefyd wneud yn siwr bod nhw ddim wedi ei drafftio.</ExhaustionDesc>
 	
 	<NeedFoodHopper>Need food hopper</NeedFoodHopper>
 	<NeedFoodHopperDesc>You have a nutrient dispenser with no hopper next to it.\n\nTo work, paste dispensers must draw from an adjacent hopper filled with raw food.\n\nBuild a hopper adjacent to the dispenser.</NeedFoodHopperDesc>
